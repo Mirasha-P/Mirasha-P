@@ -1,20 +1,45 @@
-👋 Hello! I'm Mirasha, a data enthusiast transitioning from finance to data analytics. With over 6 years of finance experience, I'm passionate about uncovering insights from data and translating them into actionable strategies.
+# Mirasha Perera
 
-## 🚀 About Me
+## Data Analyst | Finance Professional | Aspiring Data Scientist
+
+👋 Hello! I'm Mirasha, a data enthusiast with a strong background in finance, transitioning into the exciting world of advanced analytics and data science.
+
+### 🚀 About Me
 
 - 🏦 6+ years of experience in finance
-- 📊 Transitioning into data analytics
-- 💡 Keen interest in predictive modeling, data visualization, and diagnostic analysis
-- 🖥️ Experienced in building dashboards for insightful data representation
-- 🌱 Continuously expanding my skills in advanced analytics techniques
+- 🎓 BSc in International Business and Finance from University of West of Scotland
+- 📊 Passionate about uncovering insights from complex datasets
+- 🌱 Continuously expanding my skills in machine learning and AI
+- 🎓 LSE Data Analytics Career Accelerator Programme graduate
 
-## 🛠️ Skills
+### 💻 Tech Stack
 
-- **Programming Languages:** Python, R, SQL
-- **Data Visualization:** Tableau, PowerBI, Matplotlib, Seaborn
-- **Statistical Analysis:** Hypothesis testing, Regression analysis
-- **Machine Learning:** Scikit-learn
-- **Financial Analysis:** Risk assessment, Customer churn analysis, Profit and Loss analysis, Accounts Payable (AP) and Accounts Receivable (AR)
-- **Tools:** Excel (Advanced)
+- **Languages:** Python, R, SQL
+- **Data Analysis:** Pandas, NumPy, tidyverse
+- **Visualization:** Tableau, PowerBI, ggplot2, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, Random Forest, Regression Models
+- **NLP:** NLTK, TextBlob
+- **Version Control:** Git, GitHub
+- **Databases:** PostgreSQL, MySQL
 
-I'm always open to collaborations and new opportunities! Feel free to reach out if you'd like to discuss data analytics, finance, or potential projects. Let's create impactful data-driven solutions together!
+### 🔍 Areas of Interest
+
+- Customer Behavior Analysis
+- Predictive Modeling
+- Financial Data Analysis
+- Text Mining and Sentiment Analysis
+- Data-Driven Decision Making
+
+### 📈 What I'm Working On
+
+- Enhancing my skills in deep learning and neural networks
+- Exploring big data technologies like Spark
+- Developing interactive dashboards for business intelligence
+
+### 🤝 Let's Connect!
+
+- [LinkedIn](in/mirasha-perera)
+- [Portfolio Website]([your-portfolio-url](https://www.mirasha-perera.com/))
+- 📧 [Email](mailto:mirasha769@gmail.com)
+
+Feel free to explore my pinned repositories below to see examples of my work in data analysis, visualization, and machine learning projects. I'm always open to collaborations and discussions on all things data!
