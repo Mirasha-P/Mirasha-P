@@ -16,7 +16,7 @@
 
 - **Languages:** Python, R, SQL
 - **Data Analysis:** Pandas, NumPy, tidyverse
-- **Visualization:** Tableau, PowerBI, ggplot2, Matplotlib, Seaborn
+- **Visualisation:** Tableau, PowerBI, ggplot2, Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn, Random Forest, Regression Models
 - **NLP:** NLTK, TextBlob
 - **Version Control:** Git, GitHub
@@ -42,4 +42,4 @@
 - :globe_with_meridians: [Portfolio Website](https://www.mirasha-perera.com/)
 - 📧 [Email](mailto:mirasha769@gmail.com)
 
-Feel free to explore my pinned repositories below to see examples of my work in data analysis, visualization, and machine learning projects. I'm always open to collaborations and discussions on all things data!
+Feel free to explore my pinned repositories below to see examples of my work in data analysis, visualisation, and machine learning projects. I'm always open to collaborations and discussions on all things data!
