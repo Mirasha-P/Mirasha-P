@@ -38,7 +38,7 @@
 
 ### 🤝 Let's Connect!
 
-- :briefcase: [LinkedIn](in/mirasha-perera)
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/mirasha-perera/)
 - :globe_with_meridians: [Portfolio Website](https://www.mirasha-perera.com/)
 - 📧 [Email](mailto:mirasha769@gmail.com)
 
