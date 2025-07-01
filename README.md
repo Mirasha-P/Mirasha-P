@@ -39,7 +39,7 @@
 ### 🤝 Let's Connect!
 
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/mirasha-perera/)
-- :globe_with_meridians: [Portfolio Website](https://www.mirasha-perera.com/)
+- :globe_with_meridians: [Portfolio Website](https://www.mirashaperera.com/)
 - 📧 [Email](mailto:mirasha769@gmail.com)
 
 Feel free to explore my pinned repositories below to see examples of my work in data analysis, visualisation, and machine learning projects. I'm always open to collaborations and discussions on all things data!
